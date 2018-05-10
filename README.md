@@ -1,5 +1,5 @@
 # Learning Series - Android Development
-## Basi of Android Front-End Development
+## Basic of Android Front-End Development
 Learn the basic of front end development in android using android studio.
 
 # Project Author
